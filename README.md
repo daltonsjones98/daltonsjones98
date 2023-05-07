@@ -1,5 +1,4 @@
-<h1>Hi, I'm Dalton, www.linkedin.com/in/
-dalton-jones-277925225
+<h1>Hi, I'm Dalton!
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
