@@ -14,7 +14,6 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/daltonsjones98/Network-Security-Groups-and-Inspecting-Traffic-between-Azure-WM-s)
 
 - <b>Local Host PC- Windows 10
-
   - [Windows Server Install and configuration](https://github.com/daltonsjones98/Windows-Server-Install-and-Setup)
 
 
