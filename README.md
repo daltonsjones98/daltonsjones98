@@ -10,7 +10,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/daltonsjones98/OsTicket--Post-Install-and-processing-work-tickets)
   
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/daltonsjones98/Active-Directory-deployment-and-setup)
+  - [Configuring Active Directory within Azure Virtual Machines](https://github.com/daltonsjones98/Active-Directory-deployment-and-setup)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/daltonsjones98/Network-Security-Groups-and-Inspecting-Traffic-between-Azure-WM-s)
 
 - <b>Local Host PC- Windows 10
